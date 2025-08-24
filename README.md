@@ -1,4 +1,5 @@
 # python_deep
+<<<<<<< HEAD
 
 Practical assignments for the course **"Python Deep Dive"** (GeekBrains).  
 The repository is organized into **lectures (Lesson_X)** and **homework (home_work_X)** folders.
@@ -20,3 +21,6 @@ From repository root:
 ```bash
 python Lesson_1/task_1.py
 python home_work_1/frame.py
+=======
+Homework and practice tasks for the Python Deep Dive course
+>>>>>>> 0a71c903456c3dd92c21092c1446dd74ef81f27b
