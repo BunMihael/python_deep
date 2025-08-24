@@ -1,15 +1,15 @@
 
 ---
 
-## 📌 2. `README.md` для папки `Lesson_1/`
+### 2) `Lesson_1/README.md`
 ```markdown
 # Lesson 1 — Practice tasks
 
 This folder contains six introductory Python tasks.
 
 ## Files
-| File       | Description |
-|------------|-------------|
+| File        | Description |
+|-------------|-------------|
 | `task_1.py` | Solve quadratic equation **5x² − 10x − 400 = 0** using discriminant. |
 | `task_2.py` | Sum integers from 1 to 10: take only even numbers not divisible by 3. |
 | `task_3.py` | Leap year check. Rule: divisible by 400 OR divisible by 4 but not by 100. |

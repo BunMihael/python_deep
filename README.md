@@ -1,7 +1,6 @@
 # python_deep
-<<<<<<< HEAD
 
-Practical assignments for the course **"Python Deep Dive"** (GeekBrains).  
+Practical assignments for the course **"Python Deep Dive"** (GeekBrains).
 The repository is organized into **lectures (Lesson_X)** and **homework (home_work_X)** folders.
 
 ## Structure
@@ -10,7 +9,7 @@ The repository is organized into **lectures (Lesson_X)** and **homework (home_wo
 - Lesson_2 — (coming soon)
 - home_work_2 — (coming soon)
 
-Each folder contains its own `README.md` file with detailed descriptions of tasks.
+Each folder contains its own `README.md` with detailed descriptions of tasks.
 
 ## Requirements
 - Python **3.10+**
@@ -21,6 +20,3 @@ From repository root:
 ```bash
 python Lesson_1/task_1.py
 python home_work_1/frame.py
-=======
-Homework and practice tasks for the Python Deep Dive course
->>>>>>> 0a71c903456c3dd92c21092c1446dd74ef81f27b
